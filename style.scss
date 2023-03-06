@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+        background-color: dimgrey;
+        padding:20px;
+        position: sticky;
+        display: flex;
+        justify-content: space-around;
+        
+        
+    .one {
+        color:skyblue;
+        font-size: 20px;
+        font-family: 'Hugmate', sans-serif;
+          display: flex;                              
+        margin-right: 700px;
+        padding-left: 20px;
+        margin-top: 20px;
+        
+      
+    }
+
+    .two{
+        display: flex;
+        
+        a{color: whitesmoke;
+         text-decoration: none;
+         font-size: 20px;
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         
+         
+         
+         
+    }
+        
+    
+    }
+
+}
+.Body {
+    .body1{
+        display: flex;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Hugmate', sans-serif;
+                                                
+        background-image: url(jeez.jpeg);
+        background-size: cover;
+        
+        h1{
+            margin-top: 200px;
+            padding-left: 40px;
+            padding-right: 30px;
+        }
+        
+        
+    }
+}
+    .body2
+        {
+        
+        display: flex;
+       font-size: 25px;
+       align-items: center;
+       justify-content: space-between;
+        width: 100%;
+        height: auto;
+        padding-bottom:30px;
+        
+        background-color:whitesmoke;
+        .page1{
+                padding-left: 30px;
+               
+                // margin-right: 1px;
+                background-color:lightcyan;
+                border-radius: 20px;
+                padding: 30px;
+                margin-left: 30px;
+                font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+                margin-bottom: 10px;
+                margin-top: 20px;
+                box-shadow: 5px 4px 5px;
+                margin-right: 30px;
+               
+        }
+        .page2{
+            padding-left: 30px;
+               
+                // margin-right: 1px;
+                background-color:grey;
+                border-radius: 20px;
+                padding: 30px;
+                margin-left: 30px;
+                font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+                margin-bottom: 10px;
+                margin-top: 20px;
+                box-shadow: 5px 4px 8px;
+                margin-right: 30px;}
+        .page3{
+            padding-left: 40px;
+            padding-top: 10px;
+            margin-top: 10px;
+            
+            margin-right: 1000px;
+            background-color: aqua;
+            border-radius: 20px;
+            padding: 30px;
+            margin-left: 30px;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        
+    }
+    .end{
+        padding-bottom: 50px;
+       padding-left: 80px;
+       padding-top: 40px;
+        font-size: 50px;
+        font-family:'Roboto', sans-serif;
+        background-color:lightcyan;
+    }
+    footer{
+        font-size:25px;
+        text-align: center;
+        background-color:grey;
+        padding: 30px;
+    }
+    
+
